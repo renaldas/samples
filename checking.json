@@ -1,0 +1,16 @@
+{
+  "checkingin" : [
+    {
+      "name" : "Henri",
+      "id" : "1"
+    },
+    {
+      "name" : "Renaldas",
+      "id" : "2"
+    },
+    {
+      "name" : "Pete",
+      "id" : "3"
+    }
+  ]
+}
